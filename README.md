@@ -4,7 +4,7 @@
 
 📊 ANALYSE DE LA CONSOMMATION, IMPACTS ET STRATÉGIES DE PRÉVENTION
 
-<img width="662" height="465" alt="Screenshot_2025-10-21_06-23-11" src="https://github.com/user-attachments/assets/960fb6b2-f672-4805-850e-6ffef93a8e77" />
+<img width="662" height="465" alt="Screenshot_2025-10-21_06-34-19" src="https://github.com/user-attachments/assets/dc140180-a5ad-4922-8f04-accc9b808fac" />
 
 # EXAMPLE 
 
